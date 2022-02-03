@@ -1,3 +1,6 @@
+[![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
+
+
 <!--  <a href="https://elixir-lang.org" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> 
   <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" height="40" alt="nestjs" /></a> 
