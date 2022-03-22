@@ -1,4 +1,7 @@
 [![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 <!--  <a href="https://elixir-lang.org" target="_blank">
@@ -13,8 +16,6 @@
  <a href="https://redux-saga.js.org/" target="_blank">   <img src="https://api.iconify.design/logos:redux-saga.svg" alt="react" width="40" height="40"/> </a>
    -->
 
-[![](https://komarev.com/ghpvc/?username=chanphiromsok&color=blue&label=Profile%20Views)](https://github.com/chanphiromsok)
-[![](https://img.shields.io/github/followers/chanphiromsok?label=GitHub%20Followers)](https://github.com/chanphiromsok)
 
 
 
