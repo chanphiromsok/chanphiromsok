@@ -1,7 +1,15 @@
-[![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
+<!-- [![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
 <p align="center">
   <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />
-</p>
+</p> -->
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/chanphiromsok"
+  width="600"
+  height="300"
+/>
+</a>
 
 
 <!--  <a href="https://elixir-lang.org" target="_blank">
